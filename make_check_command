@@ -1,0 +1,2 @@
+# Have to set the lang explicitly to English instead of C so the lookups will work right
+LANG=en_US.UTF-8 make TEST_VERBOSE=1 test
